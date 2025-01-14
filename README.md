@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=header&text=HoongGilDong&fontColor=ffffff&fontSize=60" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoonggildong&layout=compact&bg_color=000000&text_color=B041FF"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugine&layout=compact&bg_color=000000&text_color=B041FF"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Hoonggildong&show_icons=true&bg_color=000000&text_color=B041FF">
 
 
