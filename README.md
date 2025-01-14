@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eugineee123&show_icons=true&bg_color=000000&text_color=B041FF">
 </div>
 <hr>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=150&section=footer" />
 <!--
 **Hoonggildong/Hoonggildong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
