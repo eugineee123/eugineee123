@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#B041FF&height=100&section=header&text=Hoonggildong&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#B041FF&height=100&section=header&text=Hoonggildong&fontSize=900" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#B041FF&height=100&section=footer&text=Hoonggildong&fontSize=900" />
 <!--
 **Hoonggildong/Hoonggildong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
