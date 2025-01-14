@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=header&text=HoongGilDong&fontColor=ffffff&fontSize=60" />
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoonggildong)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoonggildong&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Hoonggildong&show_icons=true">
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=footer" />
