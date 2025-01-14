@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=header&text=Welcome&fontColor=ffffff&fontSize=60" />
 <div align="center">
-<p> student </p> <br>
+<p> student </p> 
 <p> email : 2171030Namyjin@gmail.com </p> 
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugineee123&layout=compact&bg_color=000000&text_color=B041FF"><br><br>
