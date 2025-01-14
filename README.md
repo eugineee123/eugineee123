@@ -1,5 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=B041FF&height=150&section=header&text=HoongGilDong&fontColor=ffffff&fontSize=60" />
-<img src="https://capsule-render.vercel.app/api?type=shark&color=B041FF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=header&text=HoongGilDong&fontColor=ffffff&fontSize=60" />
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoonggildong)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B041FF&height=150&section=footer" />
 <!--
 **Hoonggildong/Hoonggildong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
