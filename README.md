@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=150&section=header&text=Introduction&fontColor=000000&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=150&section=header&text=Introduction&fontColor=ffffff&fontSize=60" />
 <div align="center">
 <p> student </p> 
 <p> email : 2171030Namyjin@gmail.com </p> 
