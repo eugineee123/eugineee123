@@ -5,7 +5,7 @@
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugineee123&layout=compact&bg_color=000000&text_color=9400D3"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=eugineee123&show_icons=true&bg_color=000000&text_color=9400D3">
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eugineee123&theme=github)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eugineee123&theme=github">
 <hr>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=150&section=footer" />
